@@ -1,0 +1,4 @@
+secrets.toml file
+PINECONE_API_KEY = "pcsk_63c8jW_LTEf73SBz7LA2nfN4UNp7WgjL15T98iQ7t3EsBqYRPvkr61ugE3mijjBRhBoYJ2"
+PINECONE_ENV = "us-east-1"
+OPENAI_API_KEY = "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"
